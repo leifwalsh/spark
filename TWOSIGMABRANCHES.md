@@ -2,8 +2,8 @@
 
 We maintain additional branches as follows:
 
-* 1.6.2-cook - This is a branch of Spark with Cook support added.
-* 1.6.2-ts - This branch is based off of the 1.6.2-cook branch and has
+* 1.6.3-cook - This is a branch of Spark with Cook support added.
+* 1.6.3-ts - This branch is based off of the 1.6.3-cook branch and has
   TS related backports applied for internal usage.
 
 We will only base branches off of tagged released versions of Spark and therefore
